@@ -1,0 +1,13 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable Express request/response/error logging middleware and helper logger.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --version"
+  },
+  "keywords": ["logging", "middleware", "express", "logger"],
+  "author": "",
+  "license": "MIT"
+}
